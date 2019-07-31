@@ -1,2 +1,2 @@
 # corocoro
-Execute something while controlling for registering and registering from ELB.
+Execute something while controlling to deregister and register from ELB.
